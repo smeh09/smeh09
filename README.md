@@ -3,6 +3,5 @@
 - 🌱 I like javascript
 - ⌨ I am a full stack web developer & game engine developer
 
-My Github Stats -
 ![smeh09's GitHub stats](https://github-readme-stats.vercel.app/api?username=smeh09&show_icons=true&theme=dracula)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=smeh09&layout=compact)](https://github.com/anuraghazra/github-readme-stats&theme=dracula)
