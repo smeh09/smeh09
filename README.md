@@ -3,7 +3,7 @@
 I'm a full stack web developer and a javascript game developer.
 I'm currently working on a game engine in javascript.
 
-# My Skills include
+***My Skills include***
 - HTML
 - CSS
 - JS
